@@ -1,0 +1,45 @@
+_ 1435880974897
+c chr4
+centerLabels 1
+clade insect
+db dm6
+dinkL 2.0
+dinkR 2.0
+enableHighlightingDialog 1
+exonNumbers 1
+fbncgenes hide
+fbpseudogenes hide
+gap hide
+guidelines 1
+hgS_loadUrlName 
+hgS_saveLocalFileCompress none
+hgS_saveLocalFileName settings.txt
+hgTracksConfigPage 
+hgsid 29_RgROu0hAqaLFpecHrRaMUph9G2QI
+hgt.labelWidth 17
+hgt_configGroupTarget none
+hgtgroup_compGeno_close 0
+hgtgroup_domains_close 0
+hgtgroup_genes_close 0
+hgtgroup_histones_close 0
+hgtgroup_insertions_close 0
+hgtgroup_map_close 0
+hgtgroup_regulation_close 0
+hgtgroup_varRep_close 0
+ideogram 1
+jsh_pageVertPos 0
+l 306999
+lastPosition chr4:307000-312000
+leftLabels 1
+nextExonArrows 1
+nextItemArrows 0
+org D. melanogaster
+pix 900
+position chr4:307000-312000
+r 312000
+rmsk hide
+ruler dense
+textSize 12
+topSubmit submit
+trackControlsOnMain 1
+trackHubs 

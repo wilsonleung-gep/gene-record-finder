@@ -1,0 +1,197 @@
+html, button, input, select,
+.pure-g [class*="pure-u"],
+.yui3-skin-sam #bd .yui3-datatable-table {
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+  font-size: 93%;
+}
+
+body {
+  margin: auto;
+  max-width: 960px;
+}
+
+.hidden {
+  display: none;
+}
+
+p {
+  padding: 0.2em;
+  margin: 0.5em 0 0 0;
+}
+
+.release_info p {
+  text-align: right;
+}
+
+#hd, #ft {
+  background-color: #696969;
+  padding: 0 1em;
+  margin-bottom: 0.5em;
+}
+
+#hd legend {
+  color: white;
+}
+
+#ft {
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+#hd p,
+#ft p,
+#ft a {
+  color: white;
+  margin: 0;
+}
+
+#bd {
+  background-color: #CCC;
+  padding: 1em;
+}
+
+.logo {
+  float: right;
+  margin-right: 1em;
+}
+
+span.countDetails {
+  font-size: 77%;
+  color: #006400;
+}
+
+.yui3-aclist-item-active span.countDetails {
+ color: #FFD700;
+}
+
+.yui3-tab-selected a {
+  font-weight: bold;
+}
+
+.detailsSection {
+  margin-bottom: 1em;
+}
+
+#bd .yui3-datatable tr.highlightRow td {
+  background-color: #B3D4FF;
+  cursor: pointer;
+}
+
+#bd .yui3-datatable tr.selectRow td {
+	background-color: #426FD9;
+	color: #FFF;
+}
+
+#bd .yui3-datatable tr.selectRow a {
+	color: #FFF;
+}
+
+#bd .yui3-tabview-panel {
+  background-color: #FFF;
+}
+
+.panelControls {
+  background-color: #333;
+  color: #FFF;
+  padding: 0.5em;
+  font-size: 85%;
+  margin-bottom: 1em;
+}
+
+.panelControls button {
+  margin-right: 0.6em;
+}
+
+ul.toolbar li {
+  display: inline;
+}
+
+table.pure-table,
+table.pure-table td,
+table.pure-table th {
+  border: 1px solid #333;
+}
+
+.usageTableLabel {
+  float: left;
+}
+
+.usageTableInfo {
+  overflow: auto;
+  margin-bottom: 0.5em;
+}
+
+.infoTable {
+  float: clear;
+}
+
+tr.selectRow {
+  background-color: #CD4F39;
+  color: #FFF;
+}
+
+tr.selectRow td.match
+{
+  background-color: #006D2C;
+  font-weight: bold;
+}
+
+tr td.match {
+  background-color: #0D0;
+}
+
+.usageTableInfo tr th:hover {
+  background: url('../images/sprite.png') repeat-x scroll left -1300px #BFDAFF;
+  outline: 0px none;
+  cursor: pointer;
+  color: black;
+}
+
+.usageTableLabel tr.highlightRow,
+.usageTableInfo tr.highlightRow {
+  background-color: #FCBBA1;
+  cursor: pointer;
+  color: #7F0000;
+}
+
+.usageTableInfo table td {
+  text-align: center;
+}
+
+.usageTableLabel td {
+  text-align: right;
+}
+
+.usageTableLabel table th,
+.usageTableInfo table th {
+  font-size: 73%;
+  text-align: center;
+  padding: 0.5em 0.6em;
+
+  background: url("../images/sprite.png") repeat-x scroll 0 0 #d8d8d8;
+  border-color: #a3a3a3;
+  border-image: none;
+  border-style: solid;
+  border-width: 1px 1px 0;
+  text-decoration: none;
+}
+
+textarea.sequence {
+  font-family: "Courier New", Courier, "Lucida Sans Typewriter", monospace;
+  font-size: 93%;
+}
+
+#bd .yui3-dd-draggable {
+  cursor: move;
+}
+
+.browserScreenshot {
+  padding: 0.5em;
+  background-color: white;
+  border: 1px solid #808080;
+  margin-top: 0.3em;
+}
+
+.browserScreenshot img {
+  max-width: 101%;
+}
